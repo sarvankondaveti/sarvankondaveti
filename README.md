@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarvankondaveti
-- 👀 I’m interested in web development and data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- Masters in Computer science in university at buffalo AI/ML specialization
+- 👀 I’m interested in AI/ML 
+- 💞️ I’m looking for fulltime roles
 - 📫 How to reach me snpavankondaveti135@gmail.com
 
 <!---
